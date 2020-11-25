@@ -6,3 +6,5 @@ Using OpenCV, Keras/TensorFlow, the face mask detection system is developed usin
 Models used
 
 MobileNetV2
+
+Dataset can be found at:- https://drive.google.com/drive/folders/1H8OF74HtNaaZzvpf-jn5WSwesWBisKL0?usp=sharing
