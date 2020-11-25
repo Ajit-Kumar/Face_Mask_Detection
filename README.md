@@ -12,5 +12,6 @@ Dataset can be found at:- https://drive.google.com/drive/folders/1H8OF74HtNaaZzv
 This dataset consists of 3835 images belonging to two classes:
 
 with_mask: 1916 images
+
 without_mask: 1919 images
 
