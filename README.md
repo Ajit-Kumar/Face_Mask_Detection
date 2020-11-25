@@ -15,3 +15,5 @@ with_mask: 1916 images
 
 without_mask: 1919 images
 
+All the dependencies and required libraries are included in the file requirements.txt
+
